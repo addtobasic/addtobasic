@@ -1,6 +1,6 @@
 面白いと思ったものと欲しいと思ったものと趣味に関するものを作るのがすきです
 
-- Studying : System Control & Information Engineering [@NIT.Asahikawa College](https://www.asahikawa-nct.ac.jp/)
+- Studying : Information Design & Information Engineering [@Future University Hakodate](https://www.fun.ac.jp/)
 - Portfolio : [addtobasic.dev](https://addtobasic.dev/)
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=addtobasic&show_icons=true&count_private=true&theme=blue-green)
